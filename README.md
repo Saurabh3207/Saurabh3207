@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh3207&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh3207" /> </p>
 
-- 🔭 I’m currently working on [ElihealthbotAi](https://github.com/Saurabh3207/EliHealthBot)
+- 🔭 I’m currently working on [CyberGuardian](https://github.com/Saurabh3207/CyberGuardian)
 
 - 🌱 I’m currently learning **Backend-Devlopment**
 
-- 👨‍💻 All of my projects are available at [https://saurabhjadhav.surge.sh/](https://saurabhjadhav.surge.sh/)
-
-- 📝 I regularly write articles on [Cybersecurity Encryptions.](Cybersecurity Encryptions.)
+- 👨‍💻 All of my projects are available at [https://github.com/Saurabh3207)
 
 - 💬 Ask me about **Django,WebDesign,Prompt Engineering**
 
